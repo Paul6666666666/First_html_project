@@ -1,0 +1,2 @@
+git checkout -b Name_of_Branch =>       git branch Name_of_Branch
+					git checkout Name_of_Branch
